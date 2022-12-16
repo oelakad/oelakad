@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oelakad
 - 👀 I’m interested in using bioinformatics tools to identify and characterize new targets against diseases. 
-- 🌱 I’m currently learning analysis of Multi-omics data (correlation between Mass Spectrometry, Mutations, RNAsequencing and supplementary information).
+- 🌱 I’m currently learning analysis of Multi-omics data (correlation between Mass Spectrometry, Mutations, RNAsequencing and supplementary information) using R.
 - 💞️ I’m looking to collaborate on projects including basic/downstream analysis and/or graphical representation of biological datasets. 
 - 📫 you can reach me at omarakkad14@gmail.com
 
